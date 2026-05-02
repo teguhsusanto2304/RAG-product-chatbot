@@ -806,3 +806,6 @@ Built with:
 
 \- FastAPI
 
+Snapshoot
+![Chatbot UI](snapshoot/chatbot.png)
+
